@@ -1,0 +1,5 @@
+{
+"ip":"PRO_CLASHER20.aternos.me",
+"port": "37941",
+"name":"probot"
+}
